@@ -53,6 +53,7 @@ BFS is implemented using a queue data structure, which allows us to store the no
 
 BFS has a time complexity of O(V+E), where V is the number of nodes and E is the number of edges in the graph. This makes it suitable for use on large graphs, as it will not take too long to traverse the entire graph. However, BFS may use a large amount of memory, as it needs to store the entire breadth of the search tree at any given point in time.[Learn more with the BFS Algorithm](https://www.javatpoint.com/bfs-algorithm-in-java) Additionally, watch *[this video](https://www.youtube.com/watch?v=pcKY4hjDrxk)* to see **what is bfs algorithm and dfs algorithm** to obtain some extra information.
 
+---
 
 BFS Algorithm Example With Java:
 
@@ -141,7 +142,7 @@ Output:
     
     2 0 3 1 
     
-    
+---
     
 ### 🌲 **Project tree**
 
@@ -171,6 +172,8 @@ Output:
 └── README.md
 3 directories, 18 files
 ```
+
+---
 
 ## 📸 **Screenshots**
 
