@@ -177,11 +177,11 @@ Output:
 ### Labyrinth:
 
 <p align="center">
-  <img width="70%" height="70%" src="https://i.hizliresim.com/q9w1yy2.png" alt="Labyrinth">
+  <img src="https://i.hizliresim.com/q9w1yy2.png" alt="Labyrinth">
 </p>
 
 ### Output:
 
 <p align="center">
-  <img width="70%" height="70%" src="https://i.hizliresim.com/d68lmne.png" alt="Labyrinth Solver Algorithm Output">
+  <img src="https://i.hizliresim.com/d68lmne.png" alt="Labyrinth Solver Algorithm Output">
 </p>
