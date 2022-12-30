@@ -170,7 +170,7 @@ Output:
 │   │   └── labirent1.txt
 ├── Algoritma Labirent Solver.iml
 └── README.md
-3 directories, 18 files
+3 directories, 17 files
 ```
 
 ---
