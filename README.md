@@ -3,19 +3,21 @@
 
 <p align="center">
   <a href="#">
-    <img width="100%" src="https://i.hizliresim.com/op3dmaj.png" alt="softgineer's Portfolio">
+    <img width="100%" src="https://i.hizliresim.com/op3dmaj.png" alt="@softgineer's Portfolio">
   </a>
   <br>
-  <a href="https://github.com/Josee9988/project-template/issues">
-    <img src="https://img.shields.io/github/issues/Josee9988/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Josee9988/project-template's issues"/>
+  <a href="#EmptyLink">
+    <img src="#emptyLink" alt="@EmptyLinkAlt"/>
   </a>
-  <a href="https://github.com/josee9988/project-template/pulls">
-    <img src="https://img.shields.io/github/issues-pr/Josee9988/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Josee9988/project-template's pull requests"/>
+  <a href="#EmptyLink">
+    <img src="#emptyLink" alt="@EmptyLinkAlt"/>
   </a>
-  <a href="https://github.com/Josee9988/project-template/generate">
-    <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github-sponsors&style=for-the-badge&color=green" alt="@Josee9988/project-template link to create a new repository from the template">
+  <a href="#EmptyLink">
+    <img src="#emptyLink" alt="@EmptyLinkAlt"/>
   </a>
-  <a href="https://github.com/Josee9988/project-template/actions/workflows/shelltest.yml">
-    <img src="https://github.com/Josee9988/project-template/actions/workflows/shelltest.yml/badge.svg" alt="@Josee9988/project-template's tests">
+  <a href="#EmptyLink">
+    <img src="#emptyLink" alt="@EmptyLinkAlt"/>
   </a>
 </p>
+
+---
