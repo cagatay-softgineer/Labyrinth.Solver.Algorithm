@@ -28,8 +28,8 @@ public class CozumAlgoritmasi {
             }
 
             for (int[] direction : DIRECTIONS) {
-                Kordinat kordinat = new Kordinat(cur.getX() + direction[0], cur.getY() + direction[1], cur);
-                nextToVisit.add(kordinat);
+                Kordinat coordinate = new Kordinat(cur.getX() + direction[0], cur.getY() + direction[1], cur);
+                nextToVisit.add(coordinate);
                 labirent.setVisited(cur.getX(), cur.getY(), true);
             }
         }
@@ -42,7 +42,7 @@ public class CozumAlgoritmasi {
 
         while (iter != null) {
             path.add(iter);
-            iter = iter.kontrol;
+            iter = iter.parent;
         }
 
         return path;
