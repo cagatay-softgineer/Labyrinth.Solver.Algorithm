@@ -1,18 +1,18 @@
 public class Kordinat {
     int x;
     int y;
-    Kordinat kontrol;
+    Kordinat parent;
 
     public Kordinat(int x, int y) {
         this.x = x;
         this.y = y;
-        this.kontrol = null;
+        this.parent = null;
     }
 
     public Kordinat(int x, int y, Kordinat parent) {
         this.x = x;
         this.y = y;
-        this.kontrol = parent;
+        this.parent = parent;
     }
 
     int getX() {
@@ -23,7 +23,7 @@ public class Kordinat {
         return y;
     }
 
-    Kordinat getKontrol() {
-        return kontrol;
+    Kordinat getParent() {
+        return parent;
     }
 }
