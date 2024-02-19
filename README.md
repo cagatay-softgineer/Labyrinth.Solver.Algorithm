@@ -7,17 +7,17 @@
   </a>
   <br>
   <a href="#-what-does-it-include">
-    <h1>
+    <h1 href="#-what-does-it-include">
     📚 What Does It Include
     </h1>
   </a>
   <a href="#-project-tree">
-    <h1>
+    <h1 href="#-project-tree">
     🌲 Project Tree
     </h1>
   </a>
   <a href="#-screenshots">
-    <h1>
+    <h1 href="#-screenshots">
     📸 Screenshots
     </h1>
   </a>
