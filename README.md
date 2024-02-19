@@ -7,13 +7,13 @@
   </a>
   <br>
   <a href="#-what-does-it-include">
-    <img src="#-what-does-it-include" alt="What Does It Include"/>
+    📚 What Does It Include
   </a>
   <a href="#-project-tree">
-    <img src="#-project-tree" alt="Project Tree"/>
+    🌲 Project Tree
   </a>
   <a href="#-screenshots">
-    <img src="#-screenshots" alt="Screenshots"/>
+    📸 Screenshots
   </a>
 </p>
 
