@@ -7,17 +7,17 @@
   </a>
   <br>
   <a href="#-what-does-it-include">
-    <img src="https://github.com/fluidicon.png" width="0" height="0">
+    <img src="https://github.com/fluidicon.png" width="16" height="16">
   📚 What Does It Include
   </a>
 
   <a href="#-project-tree">
-     <img src="https://github.com/fluidicon.png" width="0" height="0">
+     <img src="https://github.com/fluidicon.png" width="16" height="16">
     🌲 Project Tree
     </a>
   
   <a href="#-screenshots">
-    <img src="https://github.com/fluidicon.png" width="0" height="0">
+    <img src="https://github.com/fluidicon.png" width="16" height="16">
     📸 Screenshots
   </a>
 </p>
