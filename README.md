@@ -6,17 +6,14 @@
     <img width="100%" src="https://i.hizliresim.com/op3dmaj.png" alt="@softgineer's Portfolio">
   </a>
   <br>
-  <a href="#EmptyLink">
-    <img src="#emptyLink" alt="@EmptyLinkAlt"/>
+  <a href="#-what-does-it-include">
+    <img src="#-what-does-it-include" alt="What Does It Include"/>
   </a>
-  <a href="#EmptyLink">
-    <img src="#emptyLink" alt="@EmptyLinkAlt"/>
+  <a href="#-project-tree">
+    <img src="#-project-tree" alt="Project Tree"/>
   </a>
-  <a href="#EmptyLink">
-    <img src="#emptyLink" alt="@EmptyLinkAlt"/>
-  </a>
-  <a href="#EmptyLink">
-    <img src="#emptyLink" alt="@EmptyLinkAlt"/>
+  <a href="#-screenshots">
+    <img src="#-screenshots" alt="Screenshots"/>
   </a>
 </p>
 
