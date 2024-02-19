@@ -6,15 +6,15 @@
     <img width="100%" src="https://i.hizliresim.com/op3dmaj.png" alt="@softgineer's Portfolio">
   </a>
   <br>
-  <img src="https://avatars.githubusercontent.com/u/52183607?v=4&size=40">
+  <img src="https://avatars.githubusercontent.com/u/52183607?v=4&size=40" width="32" height="32">
   <a href="#-what-does-it-include">
   📚 What Does It Include
   </a>
-  <img src="https://avatars.githubusercontent.com/u/52183607?v=4&size=40">
+  <img src="https://avatars.githubusercontent.com/u/52183607?v=4&size=40" width="32" height="32">
     <a href="#-project-tree">
     🌲 Project Tree
     </a>
-  <img src="https://avatars.githubusercontent.com/u/52183607?v=4&size=40">
+  <img src="https://avatars.githubusercontent.com/u/52183607?v=4&size=40" width="32" height="32">
     <a href="#-screenshots">
     📸 Screenshots
   </a>
